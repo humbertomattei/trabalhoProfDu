@@ -1,0 +1,17 @@
+Leitura dos Capítulos 3, 6 e 7 do livro Clean Code
+
+Os capítulos 3, 6 e 7 do livro Clean Code, uma das principais referências sobre boas práticas de desenvolvimento de software. Os capítulos apresentam conceitos fundamentais para a construção de sistemas mais organizados, legíveis e fáceis de manter.
+
+Funções (Capítulo 3)
+
+O autor destaca que funções devem ser pequenas, simples e ter apenas uma responsabilidade. Além disso, nomes claros e descritivos ajudam a tornar o código mais compreensível. Também são abordados temas como redução de parâmetros, prevenção de efeitos colaterais e a importância de evitar duplicação de código.
+
+Objetos e Estruturas de Dados (Capítulo 6)
+
+Neste capítulo é apresentada a diferença entre objetos e estruturas de dados. Enquanto objetos encapsulam dados e comportamentos, estruturas de dados têm foco no armazenamento e transporte de informações. O capítulo reforça a importância de escolher a abordagem adequada para cada situação e de reduzir o acoplamento entre componentes do sistema.
+
+Tratamento de Erros (Capítulo 7)
+
+O capítulo mostra que o tratamento de erros deve ser planejado para não comprometer a legibilidade do código. O uso de exceções é apresentado como uma alternativa mais organizada do que códigos de erro, além da importância de criar mensagens claras e evitar retornos nulos sempre que possível.
+
+A leitura reforça que código limpo vai muito além de uma questão estética. Funções bem definidas, uso adequado de objetos e estruturas de dados, além de um tratamento de erros eficiente, contribuem diretamente para a qualidade, manutenção e evolução dos sistemas. Pequenas decisões durante o desenvolvimento podem ter um grande impacto na confiabilidade e na facilidade de entendimento do software.
